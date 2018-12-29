@@ -41,7 +41,7 @@ One of main challenges I have encountered was the syntax which I was not use to.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Wei Lin]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
