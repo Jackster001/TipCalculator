@@ -29,10 +29,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://imgur.com/a/FjUJYwP">Link to Video Walk Through</a>
+<a href="https://imgur.com/a/FjUJYwP">Link to Video WalkThrough</a>
 
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [GIPHY Capture](https://giphy.com/apps/giphycapture).
 
 ## Notes
 
