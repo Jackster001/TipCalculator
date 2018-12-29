@@ -1,6 +1,6 @@
-# Pre-work - TipComputate
+# Pre-work - Tip Calculator
 
-**TipComputate** is a tip calculator application for iOS.
+**Tip Calculator** is a tip calculator application for iOS.
 
 Submitted by: **Wei Lin**
 
